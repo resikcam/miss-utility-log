@@ -1,0 +1,283 @@
+{
+    "log": [
+        {
+            "trans-id": "1004740",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd2",
+            "poly-id": "28480818",
+            "submitted": "2/27/19",
+            "county": "anne arundel",
+            "state": "md"
+        },
+        {
+            "trans-id": "1004741",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd2",
+            "poly-id": "28480819",
+            "submitted": "2/27/19",
+            "county": "anne arundel",
+            "state": "md"
+        },
+        {
+            "trans-id": "1004726",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd2",
+            "poly-id": "28480810",
+            "submitted": "2/26/19",
+            "county": "anne arundel",
+            "state": "md"
+        },
+        {
+            "trans-id": "1004724",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd2",
+            "poly-id": "28480808",
+            "submitted": "2/26/19",
+            "county": "baltimore",
+            "state": "md"
+        },
+        {
+            "trans-id": "1004725",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd2",
+            "poly-id": "28480809",
+            "submitted": "2/26/19",
+            "county": "baltimore",
+            "state": "md"
+        },
+        {
+            "trans-id": "1005709",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd2",
+            "poly-id": "28481154",
+            "submitted": "3/8/19",
+            "county": "baltimore",
+            "state": "md"
+        },
+        {
+            "trans-id": "1005710",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd2",
+            "poly-id": "28481155",
+            "submitted": "3/8/19",
+            "county": "baltimore",
+            "state": "md"
+        },
+        {
+            "trans-id": "1005711",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd2",
+            "poly-id": "28481156",
+            "submitted": "3/8/19",
+            "county": "baltimore city",
+            "state": "md"
+        },
+        {
+            "trans-id": "1005713",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd5",
+            "poly-id": "28481158",
+            "submitted": "3/8/19",
+            "county": "calvert",
+            "state": "md"
+        },
+        {
+            "trans-id": "1005289",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd5",
+            "poly-id": "28481131",
+            "submitted": "3/6/19",
+            "county": "charles",
+            "state": "md"
+        },
+        {
+            "trans-id": "1005290",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd5",
+            "poly-id": "28481132",
+            "submitted": "3/6/19",
+            "county": "charles",
+            "state": "md"
+        },
+        {
+            "trans-id": "1004729",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "comdc",
+            "poly-id": "28480813",
+            "submitted": "2/26/19",
+            "county": "dc-sw",
+            "state": "dc"
+        },
+        {
+            "trans-id": "1004742",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd4",
+            "poly-id": "28480820",
+            "submitted": "2/27/19",
+            "county": "frederick",
+            "state": "md"
+        },
+        {
+            "trans-id": "1004743",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd4",
+            "poly-id": "28480821",
+            "submitted": "2/27/19",
+            "county": "frederick",
+            "state": "md"
+        },
+        {
+            "trans-id": "1004723",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd4",
+            "poly-id": "28480807",
+            "submitted": "2/26/19",
+            "county": "frederick",
+            "state": "md"
+        },
+        {
+            "trans-id": "1005712",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd2",
+            "poly-id": "28481157",
+            "submitted": "3/8/19",
+            "county": "harford",
+            "state": "md"
+        },
+        {
+            "trans-id": "1004727",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd1",
+            "poly-id": "28480811",
+            "submitted": "2/26/19",
+            "county": "montgomery",
+            "state": "md"
+        },
+        {
+            "trans-id": "245105",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "hrca2",
+            "poly-id": "1195549",
+            "submitted": "3/8/19",
+            "county": "new castle",
+            "state": "de"
+        },
+        {
+            "trans-id": "1005285",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd1",
+            "poly-id": "28481127",
+            "submitted": "3/6/19",
+            "county": "prince george",
+            "state": "md"
+        },
+        {
+            "trans-id": "1005286",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd1",
+            "poly-id": "28481128",
+            "submitted": "3/6/19",
+            "county": "prince george",
+            "state": "md"
+        },
+        {
+            "trans-id": "1005287",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd1",
+            "poly-id": "28481129",
+            "submitted": "3/6/19",
+            "county": "prince george",
+            "state": "md"
+        },
+        {
+            "trans-id": "1005288",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd1",
+            "poly-id": "28481130",
+            "submitted": "3/6/19",
+            "county": "prince george",
+            "state": "md"
+        },
+        {
+            "trans-id": "1004721",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd1",
+            "poly-id": "28480805",
+            "submitted": "2/26/19",
+            "county": "prince george",
+            "state": "md"
+        },
+        {
+            "trans-id": "1004722",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd1",
+            "poly-id": "28480806",
+            "submitted": "2/26/19",
+            "county": "prince george",
+            "state": "md"
+        },
+        {
+            "trans-id": "1004728",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cwmd1",
+            "poly-id": "28480812",
+            "submitted": "2/26/19",
+            "county": "prince george",
+            "state": "md"
+        },
+        {
+            "trans-id": "245099",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cde01",
+            "poly-id": "1195547",
+            "submitted": "3/6/19",
+            "county": "sussex",
+            "state": "de"
+        },
+        {
+            "trans-id": "245099",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cde01",
+            "poly-id": "1195547",
+            "submitted": "3/7/19",
+            "county": "sussex",
+            "state": "de"
+        },
+        {
+            "trans-id": "245001",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cde01",
+            "poly-id": "1195534",
+            "submitted": "2/27/19",
+            "county": "sussex",
+            "state": "de"
+        },
+        {
+            "trans-id": "245000",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cde01",
+            "poly-id": "1195533",
+            "submitted": "2/26/19",
+            "county": "sussex",
+            "state": "de"
+        },
+        {
+            "trans-id": "244998",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cemd2",
+            "poly-id": "1195531",
+            "submitted": "2/26/19",
+            "county": "wicomico",
+            "state": "md"
+        },
+        {
+            "trans-id": "244999",
+            "user": "mckinley_kiser@comcast.com",
+            "district": "cemd2",
+            "poly-id": "1195532",
+            "submitted": "2/26/19",
+            "county": "wicomico",
+            "state": "md"
+        }
+    ]
+}
